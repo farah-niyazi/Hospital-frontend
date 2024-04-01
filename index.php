@@ -2,8 +2,13 @@
 <?php
 require_once("templates/header.php")
 ?>
-
+<!-- <?php
+require_once("templates/logoheader.php")
+?> -->
 <?php
-require_once("templates/footer.php")
+require_once("templates/carousal.php")
 ?>
-<p>hello</p>
+
+<!-- <?php
+require_once("templates/footer.php")
+?> -->

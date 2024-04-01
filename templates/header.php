@@ -74,6 +74,9 @@
     </div></div>
         </div>
     </div>
+    <?php
+require_once("logoheader.php")
+?>
         <?php
         require_once("navbar.php")
         ?>
