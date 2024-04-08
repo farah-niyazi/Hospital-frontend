@@ -27,6 +27,8 @@
     <link href="./assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="./assets/vendor/simple-datatables/style.css" rel="stylesheet">
         <link href="./assets/css/navbarstyle.css" rel="stylesheet">
+        <link href="./assets/css/stylesheet.css" rel="stylesheet">
+        
 
     <!-- Template Main CSS File -->
     <!--    <link href="assets/css/style.css" rel="stylesheet">-->
@@ -38,13 +40,13 @@
 <!-- ======= Header ======= -->
 
 
-<header id="header" class="header fixed-top d-flex align-items-center" style="background-color: rgb(77, 194, 155)">
+<header id="header" class="header fixed-top d-flex align-items-center" style="background-color: #008080">
 
     <div class="container-fluid g-0">
         <div class="d-none d-lg-block d-md-block">
         <div class="row">
             <div class="col-md-3 col-lg-3 col-sm-3 text-right">
-                <h6 class="mt-3 px-3">Monday, March 18, 2024 12:45:00</h6>
+                <h6 class="mt-3 px-3" style= "color:white">Monday, March 18, 2024 12:45:00</h6>
             </div>
 <!--            <div class="col-md-2 col-lg-2 col-sm-2 "></div>-->
 <!--            <div class="col-md-6 col-lg-2 col-sm-6 "></div>-->
@@ -82,6 +84,7 @@ require_once("logoheader.php")
         ?>
      </div>
 </header>
+
 
 
 

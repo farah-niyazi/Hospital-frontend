@@ -1,0 +1,137 @@
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+#hh3{
+    text-align: center;
+    padding-bottom: 13px;
+    text-shadow: 0 0 3px teal, 0 0 6px cadetblue;
+}
+.col-md-6 h3 {
+    text-align: center;
+    padding-bottom: 13px;
+    text-shadow: 0 0 3px teal, 0 0 6px cadetblue !important;
+}
+P[_ngcontent-dfr-c21] {
+    padding: 7px;
+    font-weight: 500;
+    text-align: justify;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+#gallery[h2] {
+    
+    box-shadow: 1px 3px 17px #b0c4de;
+    border-radius: 10px;
+    min-height: 500px;
+}
+
+.mt-4 {
+    margin-top:300px !important;
+}
+h2{
+    text-shadow: 0 0 3px teal, 0 0 6px cadetblue;
+    text-align: center;
+}
+h2, .h2 {
+    font-size: calc(1.325rem + .9vw);
+}
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.mt-3 {
+    margin-top: 1rem !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    color: var(--bs-card-color);
+}
+.card[_ngcontent-oid-c8] {
+    box-shadow: 1px 3px 17px #b0c4de;
+    transition: all .2s ease-out;
+}
+
+img[_ngcontent-oid-c8] {
+    height: 200px;
+    width: auto;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img, svg {
+    vertical-align: middle;
+}
+.btn[_ngcontent-oid-c8] {
+    float: right;
+    margin-top: 22px;
+    border-radius: 19px;
+    background-color: teal;
+    color: #f5f5f5;
+    font-weight: 700;
+}
+.nav-link{
+    color: white !important;
+}
+#contact[_ngcontent-gyx-c4] {
+    border-radius: 10px;
+    box-shadow: 1px 3px 17px #b0c4de;
+}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+.pb-3 {
+    padding-bottom: 1rem !important;
+}
+.pt-4 {
+    padding-top: 1.5rem !important;
+}
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
+
+h3[_ngcontent-gyx-c4] {
+    text-align: center;
+    padding-bottom: 13px;
+    text-shadow: 0 0 3px teal, 0 0 6px cadetblue;
+}
+
+h3, .h3 {
+    font-size: calc(1.3rem + .6vw);
+}
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+b, strong {
+    font-weight: bolder;
+}
+
+
+
+img, svg {
+    vertical-align: middle;
+}
+iframe[_ngcontent-gyx-c4] {
+   
+    height: 400px;
+}
+iframe {
+    border: 0;
+    width: 850px;
+}
+

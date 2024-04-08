@@ -1,17 +1,21 @@
-<footer class="  py-5 container-fluid " style="background-color: rgb(77,194,155)" id="footer-links">
+<footer class="  py-5 container-fluid " style="background-color: #008080; color:white;" id="footer-links">
 
     <div class="container-fluid   text-center" >
         <div class="row d-flex justify-content-center">
             <div class="col-lg-4 col-md-4 mb-4">
                 <h5>Contact Us</h5>
+                
                 <ul class="nav flex-column" >
-                    <li class="nav-item" ><i class="bi bi-geo-alt-fill"></i>&nbsp;Pulwama</li>
-                    <li class="nav-item"><i class="bi bi-envelope-fill"></i>&nbsp;Pulwamahospital@gmail.com</li>
+                    <li class="nav-item" ><i class="bi bi-geo-alt-fill"></i>&nbsp;Pulwama</li><br>
+                    
+                    <li class="nav-item"><i class="bi bi-envelope-fill"></i>&nbsp;Pulwamahospital@gmail.com</li><br>
+                    
                     <li class="nav-item"><i class="bi bi-telephone-fill"></i>&nbsp;0194-123456</li>
                 </ul>
             </div>
             <div class="col-lg-4 col-md-4 mb-4">
                 <h5>E-Services</h5>
+               
                 <ul class="nav flex-column " >
                     <li class="nav-item"><a class="nav-link" href="#" >Orthopadic Liabilities</a></li>
                     <li class="nav-item"><a class="nav-link" href="#" >Dental Clinic</a></li>

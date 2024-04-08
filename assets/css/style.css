@@ -1216,6 +1216,7 @@ h6 {
 .footer {
   padding: 20px 0;
   font-size: 14px;
+  
   transition: all 0.3s;
   border-top: 1px solid #cddfff;
 }
@@ -1230,4 +1231,5 @@ h6 {
   text-align: center;
   font-size: 13px;
   color: #012970;
+  
 }
