@@ -22,7 +22,7 @@
                     <a class="nav-link" href="org_structure.php">Organization structure</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">Departments</a>
+                    <a class="nav-link" href="department.php">Departments</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
