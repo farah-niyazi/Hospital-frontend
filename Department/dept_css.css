@@ -57,16 +57,16 @@
     margin-bottom: 1rem !important;
 }
 
-#height[_ngcontent-tdx-c33] {
+#height {
     min-height: 310px;
 }
 
-.viewall[_ngcontent-tdx-c33] {
+.viewall {
     font-weight: 700;
     float: right;
     padding: 7px;
 }
-#viewall[_ngcontent-tdx-c33] {
+#viewall {
     text-decoration: none;
     background-color: #008b8b;
     color: #fff;
@@ -75,7 +75,7 @@
     cursor: pointer;
 }
 
-#scroll[_ngcontent-tdx-c33] {
+#scroll {
     height: 200px;
     overflow-y: auto;
     overflow-x: hidden;
@@ -83,7 +83,7 @@
 
 /* aboutUs */
 
-p[_ngcontent-tdx-c26] {
+.ng-star-inserted {
     min-height: 400px;
     
 }

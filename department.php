@@ -4,7 +4,7 @@ require_once("templates/header.php")
 <head>
 <link href="./assets/css/department.css" rel="stylesheet">
 </head>
-<router-outlet></router-outlet>
+
 <app-dept-list class="ng-tns-c5-5 ng-star-inserted">
 <div class="m-3 p-3 ng-tns-c5-5" style="box-shadow: 1px 3px 17px  #5f9ea0; border-radius: 22px; border: 3px solid lightsea green;
  min-height: 300px; margin-top:300px !important;padding:50px !important;">

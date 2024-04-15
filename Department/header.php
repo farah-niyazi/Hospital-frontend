@@ -37,15 +37,15 @@
 
 </head>
 <body>
-<div _ngcontent-kly-c30 class="sticky-top">
+<div  class="sticky-top">
 
-<div _ngcontent-kly-c30 class="header py-2" style="background-color: teal; color: whitesmoke;">
+<div  class="header py-2" style="background-color: teal; color: whitesmoke;">
 
-<div _ngcontent-kly-c30 class="container" style="text-align: center; font-size: 24px; font-weight: bold; line
+<div  class="container" style="text-align: center; font-size: 24px; font-weight: bold; line
 
 -height: 2;">
 
-<span _ngcontent-kly-c30 class="text-uppercase">Department of Medicine</span>
+<span  class="text-uppercase">Department of Medicine</span>
 
 </div>
 

@@ -1,7 +1,7 @@
 <?php
 require_once("templates/header.php")
 ?>
-<router ></router-outlet>
+
 
 <app-mission_nghost-dfr-c21>
 

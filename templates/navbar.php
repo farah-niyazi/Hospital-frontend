@@ -14,8 +14,8 @@
                         About Us
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="mission.php">Mission</a></li>
                         <li><a class="dropdown-item" href="History.php">History</a></li>
+                        <li><a class="dropdown-item" href="mission.php">Mission/Vision</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

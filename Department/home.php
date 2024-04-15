@@ -1,26 +1,26 @@
 <?php
 require_once("header.php")
 ?>
-<div _ngcontent-tdx-c32 class="container pb-3 mb-3 ng-tns-c32-7">
+<div  class="container pb-3 mb-3 ng-tns-c32-7">
 
-<app-mainbodysub _ngcontent-tdx-c32 class="ng-ths-c32-7 ng-trigger ng-trigger-fadeIn" _nghost-tds-c31>
+<app-mainbodysub  class="ng-ths-c32-7 ng-trigger ng-trigger-fadeIn">
 
-<router-outlet _ngcontent-tdx-c31></router-outlet>
+<router-outlet ></router-outlet>
 
-<app-notification _nghost-tdx-c33 class="ng-star-inserted">
+<app-notification  class="ng-star-inserted">
 
-<div _ngcontent-tdx-c33 Id="row" class="row pt-3"> 
+<div  Id="row" class="row pt-3"> 
 
-<div ngcontent-tdx-c33 Id="col" class="col-md-3"> 
-<div _ngcontent-tdx-c33 id="height" style="border:4px solid lightgrey; border-radius: 13px; padding:5px;
+<div  Id="col" class="col-md-3"> 
+<div  id="height" style="border:4px solid lightgrey; border-radius: 13px; padding:5px;
  margin-bottom:10px;">
 
-<h4 _ngcontent-tdx-c33 class="sticky-top" style="background-color: teal; color: whitesmoke;
+<h4  class="sticky-top" style="background-color: teal; color: whitesmoke;
  padding: 6px; z-index:0; text-align: center; font-size: 23px; border-radius: 13px;">Department Notifications</h4>
 
-<div _ngcontent-tdx-c33 id="scroll">
+<div  id="scroll">
 
-<p _ngcontent-tdx-c33 id="p" style="font-weight: bold; text-align: center;" class="ng-star-inserted"> No
+<p  id="p" style="font-weight: bold; text-align: center;" class="ng-star-inserted"> No
 
 Notifications added...</p>
 
@@ -28,9 +28,9 @@ Notifications added...</p>
 
 </div>
 
-<div _ngcontent-tdx-c33 class="viewall">
+<div  class="viewall">
 
-<a _ngcontent-tdx-c33 href="/Department/5a2ab54e-82f14fb4-97bb-b0b4e1ddd5be/viewMoreNotifications" id="viewall">
+<a  href="/Department/5a2ab54e-82f14fb4-97bb-b0b4e1ddd5be/viewMoreNotifications" id="viewall">
 
 View all </a>
 
@@ -39,16 +39,16 @@ View all </a>
 
 </div>
 
-<div _ngcontent-tdx-c33 id="details" style="border: 4px solid lightgrey; padding: 5px; border-radius: 13px;"> 
-<h4 _ngcontent-tdx-c33 style="background-color: teal; color: whitesmoke; padding: 3px; text-align: center;borders:4px solid lightgrey; border-radius: 13px;
+<div  id="details" style="border: 4px solid lightgrey; padding: 5px; border-radius: 13px;"> 
+<h4  style="background-color: teal; color: whitesmoke; padding: 3px; text-align: center;borders:4px solid lightgrey; border-radius: 13px;
  margin-bottom:10px;">
 Contact Details</h4>
 
-<h3 _ngcontent-tdx-c33 style="color: #026060;">&nbsp;&nbsp;Majid Khan </h3>
+<h3  style="color: #026060;">&nbsp;&nbsp;Majid Khan </h3>
 
-<h5 _ngcontent-tdx-c33 style="color:#026060 ;">&nbsp;&nbsp;Software Developer </h5>
+<h5  style="color:#026060 ;">&nbsp;&nbsp;Software Developer </h5>
 
-<p _ngcontent-tdx-c33 style="color: #026060; font-weight: bold; overflow: auto;">
+<p  style="color: #026060; font-weight: bold; overflow: auto;">
 
 &nbsp;
 
@@ -56,7 +56,7 @@ Contact Details</h4>
 
 <i class="bi bi-envelope-fill"></i>&nbsp;majidkhanliver@live.com
 
-<br _ngcontent-tdx-c33>
+<br >
 
 &nbsp;
 
@@ -69,24 +69,24 @@ Contact Details</h4>
 
 </div>
 
-<div _ngcontent-tdx-c33 class="col-md-9 order-first order-md-0">
+<div  class="col-md-9 order-first order-md-0">
 
-<router-outlet _ngcontent-tdx-c33></router-outlet>
+<router-outlet ></router-outlet>
 
-<app-about _nghost-tdx-c27 class="ng-star-inserted" style>
+<app-about  class="ng-star-inserted" style>
 
-<div _ngcontent-tdx-c27>
+<div >
 
-<img _ngcontent-tdx-c27 id="cimg" alt="Logo" class="img-fluid" style="width: 100%; height: 563px; margin-botton:10px
+<img  id="cimg" alt="Logo" class="img-fluid" style="width: 100%; height: 563px; margin-botton:10px
 ; border: 4px solid lightgrey; border-radius: 13px; padding: 5px;" src="../assets/img/sir.jpg">
 
-<div _ngcontent-tdx-c27 id="dept" style="border: 4px solid lightgrey; border-radius: 13px; padding:5px;margin-bottom: 10px; min-height: 200px;">
+<div  id="dept" style="border: 4px solid lightgrey; border-radius: 13px; padding:5px;margin-bottom: 10px; min-height: 200px;">
 
-<h4 _ngContent-tdx-c27 style="background-color: teal; color: whitesmoke; text-align: center; padding-top:6px; padding-bottom:6px; border-radius: 13px; padding:5px;">
+<h4  style="background-color: teal; color: whitesmoke; text-align: center; padding-top:6px; padding-bottom:6px; border-radius: 13px; padding:5px;">
 
 ABOUT DEPARTMENT</h4>
 
-<p _ngcontent-tdx-c27>
+<p >
 
 "About the department of ent About the department of ent About the department of ent About the department of
 
@@ -102,6 +102,11 @@ ant. About the department of ent. About the department of ent About the departme
 
 </div>
 </div>
+
 </app-notification>
 
 
+
+<?php
+require_once("../templates/footer.php")
+?>
