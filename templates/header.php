@@ -28,6 +28,7 @@
     <link href="./assets/vendor/simple-datatables/style.css" rel="stylesheet">
         <link href="./assets/css/navbarstyle.css" rel="stylesheet">
         <link href="./assets/css/stylesheet.css" rel="stylesheet">
+        <link href="./assets/css/stylehome.css" rel="stylesheet">
         
 
     <!-- Template Main CSS File -->
