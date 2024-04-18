@@ -29,6 +29,8 @@
         <link href="./assets/css/navbarstyle.css" rel="stylesheet">
         <link href="./assets/css/stylesheet.css" rel="stylesheet">
         <link href="./assets/css/stylehome.css" rel="stylesheet">
+        <link href="./assets/css/department.css" rel="stylesheet">
+        
         
 
     <!-- Template Main CSS File -->

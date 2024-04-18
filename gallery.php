@@ -10,26 +10,24 @@ require_once("templates/header.php")
 
 <div id="gallery" Infinitescroll class="container pt-3 mt-4 pb-3 mb-3">
 
-<h2 > Collected Shots of Our Hospital </h2>
+<h2 > COLLECTED SHOTS OF OUR HOSPITAL </h2>
 
-<div  class="row mt-3"> 
+
+<div class="row mt-3"> 
 <div class="col-md-4">
 
 <div class="container mt-3">
 
-<div  class="card img-thumbnail"> 
+<div  class="card img-thumbnail" style="box-shadow: 5px 2px 13px #b0c4de;"> 
 
-<img _image alt="Card image" class="img-fluid" src="assets/img/hospital1.jpg">
+<img  alt class="card-img-top img-fluid mb-1" src="assets/img/hospital1.jpg">
 
-<div class="card-body cgallery">
 
-<h5 class="card-title"> Department of Medicine </h5>
+<h5 class="card-title " style="color:Teal;"> Department of Medicine </h5>
 
-<p  class="card-text">captioncaptioncaptioncaptioncaptioncaption</p>
+<p  class="card-text" style="color:black; text-shadow:none;">captioncaptioncaptioncaptioncaptioncaption</p>
 
-<a  class="btn" href="#/viewAllPhotos/11">View More</a>
-
-</div>
+<a  class="btn" href="#/viewAllPhotos/11" style="background-color:teal; color:white;">View More</a>
 
 </div>
 
@@ -37,25 +35,9 @@ require_once("templates/header.php")
 
 </div>
 
-<div  class="col-md-4">
-
-<div  class="container mt-3">
-
-<div  class="card img-thumbnail">
-
-<img _image alt="Card image" class="img-fluid" src="assets/img/hospital2.jpg">
-
-<div  class="card-body cgallery">
-
-<h5  class="card-title"> Department of Surgery </h5>
-
-<p  class="card-text">captioncaptioncaptioncaptioncaptioncaption</p> 
-<a  class="btn" href="#/viewAllPhotos/12">View More</a>
-
 </div>
-</div>
-</div>
-</div>
+
+
 </div>
 </div>
 </div>

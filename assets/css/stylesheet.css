@@ -22,11 +22,12 @@ p {
     margin-bottom: 1rem;
 }
 /* gallery */
-#gallery[h2] {
+#gallery{
     
     box-shadow: 1px 3px 17px #b0c4de;
     border-radius: 10px;
     min-height: 500px;
+    margin-top:320px !important;
 }
 
 .mt-4 {
@@ -51,9 +52,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 .card-body {
     flex: 1 1 auto;
-    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-    color: var(--bs-card-color);
-}
+    }
 .card-body {
     box-shadow: 1px 3px 17px #b0c4de;
     transition: all .2s ease-out;
@@ -72,10 +71,11 @@ img, svg {
 }
 .btn{
     float: right;
-    margin-top: 22px;
+    /* margin-top: 22px; */
+    border: 1px solid teal;
     border-radius: 19px;
-    background-color: teal;
-    color: #f5f5f5;
+    background-color:#f5f5f5;
+    color: black ;
     font-weight: 700;
 }
 .nav-link{
@@ -107,6 +107,9 @@ img, svg {
     text-align: center;
     padding-bottom: 13px;
     text-shadow: 0 0 3px teal, 0 0 6px cadetblue;
+    font-size: xx-large;
+    font-weight: 500;
+    text-decoration: underline;
 }
 
 h3, .h3 {
